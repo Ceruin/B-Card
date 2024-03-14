@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://p9et1boe2p7c1.webp" type="Texture" id=1]
+
+[node name="Node" type="Node"]
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( 514, 299 )
+scale = Vector2( 0.942187, 0.663265 )
+texture = ExtResource( 1 )
